@@ -1,16 +1,102 @@
-## Hi there 👋
+# Hi, I'm Bisrat Gulelat 👋
 
-<!--
-**bisratG101/bisratG101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Full-Stack Developer | Data Structures & Algorithms  
+🌍 Addis Ababa, Ethiopia  
+🚀 Open to Remote Opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+Software Engineering student focused on building strong fundamentals in  
+**Data Structures, Algorithms, and Backend Systems.**
+
+Currently:
+- Training at **A2SV (Africa to Silicon Valley)**
+- Solving advanced problems in **C++ & Python**
+- Building backend systems using **Node.js, Express & MongoDB**
+- Preparing for competitive remote engineering roles
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🧠 Computer Science
+`Data Structures` • `Algorithms` • `Time Complexity` • `OOP`
+
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🔹 MiniGit  
+**C++ | File I/O | Hashing**  
+Lightweight version control system supporting commits, branching, checkout, and merge operations.
+
+### 🔹 Travel Agency Booking System  
+**Node.js | Express | MongoDB**  
+RESTful backend booking system with trip management and database persistence.
+
+### 🔹 Amazon Website Replica  
+**HTML | CSS | JavaScript**  
+Responsive front-end clone focusing on layout structure and DOM interaction.
+
+---
+
+## 📊 Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bisratG101&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C9B037&icon_color=C9B037&text_color=E5E5E5" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bisratG101&hide_border=true&background=0d1117&ring=C9B037&fire=C9B037&currStreakLabel=C9B037&sideNums=E5E5E5&currStreakNum=FFFFFF&dates=AAAAAA" height="165"/>
+</p>
+
+---
+
+## 🧠 Problem Solving
+
+Focused on:
+- Graph Algorithms
+- Dynamic Programming
+- Recursion & Backtracking
+- Trees & Binary Search
+- Optimization Techniques
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="mailto:bisratgulelat@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=C9B037" />
+</a>
+
+<a href="https://github.com/bisratG101">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=C9B037" />
+</a>
+
+<a href="https://leetcode.com/BisratG">
+  <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=C9B037" />
+</a>
+</p>
+
+---
+
+> Strong fundamentals. Clean systems. Relentless improvement.
