@@ -63,15 +63,21 @@ Responsive front-end clone focusing on layout structure and DOM interaction.
 
 ---
 
-## 📊 GitHub Status
+## 📊 GitHub Statistics
 
-### 🔹 Overall GitHub Statistics
-![Bisrart's GitHub stats](https://github-readme-stats.vercel.app/api?username=bisratG101&show_icons=true&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=bisratG101&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+</p>
 ### 🔹 Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bisratG101&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bisratG101&theme=tokyonight&hide_border=true&layout=compact" height="165" />
+</p>
+
+
 
 
 ---
