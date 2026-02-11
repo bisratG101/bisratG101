@@ -24,10 +24,15 @@ Currently:
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,css" />
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### 🗄 Backend & Database
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
@@ -58,14 +63,21 @@ Responsive front-end clone focusing on layout structure and DOM interaction.
 
 ---
 
-## 📊 Status
+## 📊 GitHub Status
 
+### 🔹 Overall GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bisratG101&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C9B037&icon_color=C9B037&text_color=E5E5E5" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bisratG101&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
+### 🔹 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bisratG101&hide_border=true&background=0d1117&ring=C9B037&fire=C9B037&currStreakLabel=C9B037&sideNums=E5E5E5&currStreakNum=FFFFFF&dates=AAAAAA" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bisratG101&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+### 🔹 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisratG101&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -85,15 +97,15 @@ Focused on:
 
 <p>
 <a href="mailto:bisratgulelat@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=C9B037" />
+  <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7" />
 </a>
 
 <a href="https://github.com/bisratG101">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=C9B037" />
+  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" />
 </a>
 
 <a href="https://leetcode.com/BisratG">
-  <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=C9B037" />
+  <img src="https://img.shields.io/badge/LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=7aa2f7" />
 </a>
 </p>
 
