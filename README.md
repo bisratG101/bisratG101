@@ -1,4 +1,4 @@
-# Hi, I'm Bisrat Gulelat 👋
+# Hi
 
 🎓 Software Engineering Student  
 💻 Full-Stack Developer | Data Structures & Algorithms  
